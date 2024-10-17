@@ -1,7 +1,7 @@
 
 # Speech Enhancement Using Deep Learning - Denoising Project
 
-This project was part of the BMME 575 course at Carnegie Mellon University, titled "Practical Machine Learning for Biosignal Analysis". The primary objective was to implement and evaluate a deep learning model for speech enhancement, specifically to denoise audio signals. 
+This was the final project in my BMME 575 course, Practical Machine Learning for Biosignal Analysis, at The University of North Carolina at Chapel Hill, taught by Dr. Arian Azarang. The primary objective was to implement and evaluate a deep learning model for speech enhancement, specifically to denoise audio signals. 
 
 ## Project Description
 
