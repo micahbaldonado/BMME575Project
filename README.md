@@ -23,9 +23,9 @@ Our team aimed to implement the speech denoising architecture described in the I
    - One of the most challenging tasks was getting the open-source code to run correctly. The code was outdated, and I spent several nights working through the errors in the shell scripts.
    - Once the code was running, I was responsible for making sure my team members had the resources they needed to train the model, giving my guidance and ensuring the could be used for further analysis.
 3. **STOI Calculations for LogMMSE**: 
-   - During the first phase of the project, I calculated the Short-Time Objective Intelligibility (STOI) metric for the speech enhancement performance of the LogMMSE method. This was crucial as it set a performance benchmark that we used when we later trained the deep learning model.
+   - During the first phase of the project, after Anushka took care of the preproessing of the data, I was responsible for calculating the Short-Time Objective Intelligibility (STOI) metric for the speech enhancement performance of the LogMMSE method. This was crucial as it set a performance benchmark that we used when we later trained the deep learning model.
    - These metrics were calculated for noisy data at -5dB and 0dB signal-to-noise ratio (SNR) levels.
-4. **Model Training**:  Once the deep learning model was running, I passed on the tasks of optimizing the model to my teammates. However, I was instrumental in getting the model to train and produce preliminary results, such as the model's loss and performance metrics. "
+4. **Model Training**:  Once the deep learning model was running, I passed on the tasks of optimizing the model to my teammates, Will and Hasan. However, I was instrumental in getting the model to train and produce preliminary results, such as the model's loss and performance metrics. "
 5. **Presentation**: As the team leader, I guided the presentation of our methodology, explaining the architecture of the model from the ground up. Because I wanted all the students in the class to have some base level understanding, I also explained how the input data eventually is processed by the model so that it can learn to enhance speech from mixed sound data (mixture between clean speech and noise).
 
 ## Model Evaluation and Results
