@@ -12,6 +12,11 @@ Our team aimed to implement the speech denoising architecture described in the I
 - Anushka Deshmukh - Data preprocessing. Assistance with the post-model training analysis.
 - Hasan Dheyaa and William McLain - Post-model training analysis and model performance optimization.
 
+## Additional Resources
+
+- The project presentation can be found [here](bmme575_final_presentation.pdf).
+- The final report can be found [here](575_report.pdf).
+
 ### Key Contributions:
 1. **Paper Selection**: I identified the target paper for our project, which guided the model implementation.
 2. **Debugging and Running the Model**: 
